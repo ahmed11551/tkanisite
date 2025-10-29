@@ -1,0 +1,5 @@
+# Copy values to .env.local in project root
+NEXT_PUBLIC_API_URL=https://centertkani.ru/api
+NEXT_PUBLIC_API_TOKEN=
+
+

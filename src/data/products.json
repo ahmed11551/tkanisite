@@ -1,0 +1,54 @@
+{
+  "new": [
+    { "id": "1", "name": "Лен бежевый", "price": 800, "oldPrice": null, "image": "/images/placeholders/product-1.jpg" },
+    { "id": "2", "name": "Лен мятный", "price": 800, "oldPrice": null, "image": "/images/placeholders/product-2.jpg" },
+    { "id": "3", "name": "Лен жёлтый", "price": 800, "oldPrice": null, "image": "/images/placeholders/product-3.jpg" },
+    { "id": "4", "name": "Лен розовый", "price": 800, "oldPrice": null, "image": "/images/placeholders/product-4.jpg" }
+  ],
+  "sale": [
+    { "id": "5", "name": "Футер зелёный", "price": 590, "oldPrice": 890, "image": "/images/placeholders/sale-1.jpg" },
+    { "id": "6", "name": "Футер лавандовый", "price": 590, "oldPrice": 890, "image": "/images/placeholders/sale-2.jpg" },
+    { "id": "7", "name": "Футер коралловый", "price": 590, "oldPrice": 890, "image": "/images/placeholders/sale-3.jpg" },
+    { "id": "8", "name": "Футер оливковый", "price": 590, "oldPrice": 890, "image": "/images/placeholders/sale-1.jpg" }
+  ],
+  "combinations": [
+    { "id": "combo-1", "name": "Серый комбинат", "price": 690, "oldPrice": 990, "image": "/images/placeholders/product-1.jpg", "secondImage": "/images/placeholders/product-1-alt.jpg" },
+    { "id": "combo-2", "name": "Зелёный оливковый", "price": 690, "oldPrice": 990, "image": "/images/placeholders/product-2.jpg", "secondImage": "/images/placeholders/product-2-alt.jpg" },
+    { "id": "combo-3", "name": "Бежевый ткань", "price": 690, "oldPrice": 990, "image": "/images/placeholders/product-3.jpg", "secondImage": "/images/placeholders/product-3-alt.jpg" },
+    { "id": "combo-4", "name": "Синий периклаз", "price": 690, "oldPrice": 990, "image": "/images/placeholders/product-4.jpg", "secondImage": "/images/placeholders/product-4-alt.jpg" }
+  ],
+  "catalog": {
+    "odezhda": [
+      { "id": "o-1", "name": "Шёлк натуральный", "price": 2400, "oldPrice": 2990, "image": "/images/placeholders/product-1.jpg" },
+      { "id": "o-2", "name": "Футер петля", "price": 990, "oldPrice": null, "image": "/images/placeholders/product-2.jpg" },
+      { "id": "o-3", "name": "Трикотаж рибана", "price": 890, "oldPrice": 990, "image": "/images/placeholders/product-3.jpg" },
+      { "id": "o-4", "name": "Лён варёный", "price": 1450, "oldPrice": null, "image": "/images/placeholders/product-4.jpg" },
+      { "id": "o-5", "name": "Вискоза плательная", "price": 750, "oldPrice": null, "image": "/images/placeholders/product-1.jpg" },
+      { "id": "o-6", "name": "Купра", "price": 1650, "oldPrice": 1890, "image": "/images/placeholders/product-2.jpg" },
+      { "id": "o-7", "name": "Хлопок сатин", "price": 990, "oldPrice": null, "image": "/images/placeholders/product-3.jpg" },
+      { "id": "o-8", "name": "Джинса стрейч", "price": 1250, "oldPrice": 1390, "image": "/images/placeholders/product-4.jpg" }
+    ],
+    "dom": [
+      { "id": "d-1", "name": "Сатин Турция", "price": 1650, "oldPrice": 1890, "image": "/images/placeholders/product-1.jpg" },
+      { "id": "d-2", "name": "Сатин Китай", "price": 1100, "oldPrice": null, "image": "/images/placeholders/product-2.jpg" },
+      { "id": "d-3", "name": "Поплин Турция", "price": 950, "oldPrice": null, "image": "/images/placeholders/product-3.jpg" },
+      { "id": "d-4", "name": "Дак", "price": 820, "oldPrice": null, "image": "/images/placeholders/product-4.jpg" },
+      { "id": "d-5", "name": "Вафельное полотно", "price": 780, "oldPrice": 890, "image": "/images/placeholders/product-1.jpg" },
+      { "id": "d-6", "name": "Махра", "price": 990, "oldPrice": null, "image": "/images/placeholders/product-2.jpg" },
+      { "id": "d-7", "name": "Пике косичка", "price": 1150, "oldPrice": null, "image": "/images/placeholders/product-3.jpg" },
+      { "id": "d-8", "name": "Фланель", "price": 700, "oldPrice": null, "image": "/images/placeholders/product-4.jpg" }
+    ]
+  },
+  "works": [
+    { "id": "w-1", "title": "Платье из льна", "image": "/images/placeholders/product-1.jpg" },
+    { "id": "w-2", "title": "Комплект постельного из сатина", "image": "/images/placeholders/product-2.jpg" },
+    { "id": "w-3", "title": "Толстовка из футера", "image": "/images/placeholders/product-3.jpg" },
+    { "id": "w-4", "title": "Рубашка из хлопка", "image": "/images/placeholders/product-4.jpg" },
+    { "id": "w-5", "title": "Декор из вафельного полотна", "image": "/images/placeholders/product-1.jpg" },
+    { "id": "w-6", "title": "Пижама из поплина", "image": "/images/placeholders/product-2.jpg" },
+    { "id": "w-7", "title": "Скатерть из льна", "image": "/images/placeholders/product-3.jpg" },
+    { "id": "w-8", "title": "Шторы из фланели", "image": "/images/placeholders/product-4.jpg" }
+  ]
+}
+
+
